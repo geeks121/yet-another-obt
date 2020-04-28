@@ -17,5 +17,8 @@
 ## Installing
 Simply click the preview image above to download the theme and install using **obconf** or double click on the file manager that you used.
 
+## Credits
+Flatarc openbox theme above is based on the [this](https://www.box-look.org/p/1288470/) theme
+
 ## License
 This theme is licensed under the GPL, so you can modify it as desired - see the [LICENSE](LICENSE) file for details
