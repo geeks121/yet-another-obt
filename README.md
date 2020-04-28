@@ -18,7 +18,7 @@
 Simply click the preview image above to download the theme and install using **obconf** or double click on the file manager that you used.
 
 ## Credits
-The Flatarc openbox theme above is based on [this](https://www.box-look.org/p/1288470/) theme and others based on the openbox theme by (addy-dclxvi](https://github.com/addy-dclxvi/openbox-theme-collections) which I made my own button icon using GIMP.
+The Flatarc openbox theme above is based on [this](https://www.box-look.org/p/1288470/) theme and others based on the openbox theme by [addy-dclxvi](https://github.com/addy-dclxvi/openbox-theme-collections) which I made my own button icon using GIMP.
 
 ## License
 This theme is licensed under the GPL, so you can modify it as desired - see the [LICENSE](LICENSE) file for details.
