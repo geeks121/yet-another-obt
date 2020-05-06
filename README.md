@@ -21,4 +21,4 @@ Simply click the preview image above to download the theme and install using **o
 The Flatarc openbox theme above is based on [this](https://www.box-look.org/p/1288470/) theme and the openbox theme by [addy-dclxvi](https://github.com/addy-dclxvi/openbox-theme-collections). Most of the icons used are taken from [Material Icons](https://material.io/resources/icons/) where most of the color palettes of all themes are taken from [Nord Theme](https://www.nordtheme.com/).
 
 ## License
-This theme is licensed under the GPL, so you can modify it as desired - see the [LICENSE](LICENSE) file for details.
+This theme is licensed under the GPL, so you can modify it as desired - see the [ʟɪᴄᴇɴꜱᴇ](LICENSE) file for details.
