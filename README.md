@@ -2,16 +2,16 @@
 <p align="center">A collection of my openbox themes that I packaged to openbox theme archives</p>
 <br>
 
-## <p align="center">MIxQ - Material Icon</p>
-<p align="center"><a name="top" href="https://raw.githubusercontent.com/owl4ce/Yet-Another-OBT/master/MIxQ.obt"><img src="https://raw.githubusercontent.com/owl4ce/Yet-Another-OBT/master/%40assets/mixq.png"></a></p>
+## <p align="center">MxQ</p>
+<p align="center"><a name="top" href="https://raw.githubusercontent.com/owl4ce/Yet-Another-OBT/master/MxQ.obt"><img src="https://raw.githubusercontent.com/owl4ce/Yet-Another-OBT/master/%40assets/mxq.png"></a></p>
 
-## <p align="center">NorcX - Dots Icon</p>
-<p align="center"><a name="top" href="https://raw.githubusercontent.com/owl4ce/Yet-Another-OBT/master/NorcX.obt"><img src="https://raw.githubusercontent.com/owl4ce/Yet-Another-OBT/master/%40assets/norcx.png"></a></p>
+## <p align="center">Blabla</p>
+<p align="center"><a name="top" href="https://raw.githubusercontent.com/owl4ce/Yet-Another-OBT/master/Blabla.obt"><img src="https://raw.githubusercontent.com/owl4ce/Yet-Another-OBT/master/%40assets/blabla.png"></a></p>
 
-## <p align="center">Flatarc - Arc Icon</p>
+## <p align="center">Flatarc</p>
 <p align="center"><a name="top" href="https://raw.githubusercontent.com/owl4ce/Yet-Another-OBT/master/Flatarc.obt"><img src="https://raw.githubusercontent.com/owl4ce/Yet-Another-OBT/master/%40assets/flatarc.png"></a></p>
 
-## <p align="center">Flatarc Pastel - Arc Icon</p>
+## <p align="center">Flatarc Pastel</p>
 <p align="center"><a name="top" href="https://raw.githubusercontent.com/owl4ce/Yet-Another-OBT/master/Flatarc-Pastel.obt"><img src="https://raw.githubusercontent.com/owl4ce/Yet-Another-OBT/master/%40assets/flatarc-pastel.png"></a></p>
 
 ## Installing
