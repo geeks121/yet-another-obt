@@ -3,7 +3,7 @@
 <br>
 
 ## <p align="center">Matico</p>
-<p align="center"><a name="top" href="https://raw.githubusercontent.com/owl4ce/yet-another-obt/master/Matico.obt"><img src="https://i.ibb.co/VmN8swm/matico.jpg"></a></p>
+<p align="center"><a name="top" href="https://raw.githubusercontent.com/owl4ce/yet-another-obt/master/Matico.obt"><img src="https://i.ibb.co/F7RYvdd/matico.jpg"></a></p>
 
 ## <p align="center">Blabla</p>
 <p align="center"><a name="top" href="https://raw.githubusercontent.com/owl4ce/yet-another-obt/master/Blabla.obt"><img src="https://i.ibb.co/1bzgnp1/blabla.jpg"></a></p>
